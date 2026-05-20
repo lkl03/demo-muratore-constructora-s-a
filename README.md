@@ -1,2 +1,7 @@
-# demo-muratore-constructora-s-a
-Demo web para Muratore Constructora S.A. — diseñada por eterlab.
+# Muratore Constructora S.A.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
